@@ -1,0 +1,30 @@
+link de compartilhamento: https://www.invertexto.com/pqyz28
+
+Artigos: https://medium.com/
+Repositório: https://github.com/
+Bootcamps: https://www.dio.me/
+Repositorio livros: https://github.com/KAYOKG
+LinkedIn: https://www.linkedin.com/in/hnasc1989/
+
+Exercício de de fixação: https://forms.gle/wyf3sFJ9wbgW2Pez7
+
+Repositório da turma TDS02FS: https://github.com/HelenaNascimento/TDS02FS
+
+
+Ide: https://univali-lite.github.io/Portugol-Studio/
+
+
+https://novadistribuidorace-my.sharepoint.com/:f:/g/personal/silvania_novadistribuidorane_com_br/IgAFVvbyy3UnQbizSAJqmLMuAf45bLrqulnD6noVho6R3Sw
+
+
+-- EXE casa: 
+
+1.Sequência de Fibonacci
+1.1Entrada para que o usuário possa decidir até onde a sequência deve ir
+1.2 Aplique comentários para cada etapa
+
+2.Sistema de Bancário:
+2.1 Encerrar o sistema comente quando for digitado 0
+2.2 Opção Saque, Deposito e Extrato
+3.3 Entrada: Nome, Saque ou Deposito
+3.4 Saída: Nome e Extrato
