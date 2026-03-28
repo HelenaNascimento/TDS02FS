@@ -1,4 +1,4 @@
-💻 Fundamentos de Programação
+💻 Fundamentos de Programação Orientada a Objeto - Python (3.14)
 
 🎓 Apresentação da Disciplina
 
