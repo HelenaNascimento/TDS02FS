@@ -69,7 +69,7 @@ Metodologia
 🐍 Python  
 📘 Portugol  
 💻 Visual Studio Code  
-🧪 Replit  
+🧪 colab 
 🧠 IDEs de programação
 📊 Avaliação
 
